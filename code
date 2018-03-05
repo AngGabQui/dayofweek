@@ -39,4 +39,4 @@ if day_of_week_modulo == 6:
   day_of_week = "Saturday"
 if day_of_week_modulo == 0:
   day_of_week = "Sunday"
-print "On %s %s, 2018 it will be a %s." % (month, day, day_of_week)
+print ("On %s %s, 2018 it will be a %s." % (month, day, day_of_week))
